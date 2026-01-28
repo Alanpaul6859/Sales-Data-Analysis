@@ -3,10 +3,10 @@ The analysis includes data cleaning, metric calculation, visualization, and repo
 
 The project demonstrates strong fundamentals in:
 
-Data handling
+1. Data handling
 
-Exploratory Data Analysis (EDA)
+2. Exploratory Data Analysis (EDA)
 
-Business-oriented insights
+3. Business-oriented insights
 
-Clean and maintainable Python code
+4. Clean and maintainable Python code
